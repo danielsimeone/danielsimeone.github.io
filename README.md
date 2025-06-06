@@ -1,2 +1,1 @@
-# danielsimeone.github.io
-Halifax Crayon Project
+# The Halifax Crayon Project
